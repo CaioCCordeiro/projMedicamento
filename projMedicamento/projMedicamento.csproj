@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Lote.cs" />
     <Compile Include="Medicamento.cs" />
+    <Compile Include="Medicamentos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
